@@ -346,9 +346,10 @@ const proyects = [
       const favoriteproject = proyects.find(shown => shown.id === id);
       
 
-      if (favoriteArray.includes(favoriteproject) === false) favoriteArray.push(favoriteproject);
+      
+      favoriteArray.includes(favoriteproject) === false ?  favoriteArray.push(favoriteproject) : 
 
-
+        
       filterFavorites(favoriteArray);
 
       localStorage.setItem("favoritos", JSON.stringify(favoriteArray));
