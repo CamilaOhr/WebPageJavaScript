@@ -165,13 +165,37 @@ h1{
     z-index: 70;
 }
 
+
+.left h4{
+    font-size: 1.5rem;
+    color: var(--black);
+    position: relative;
+    left: 10%;
+    padding-right: 12rem;
+    top: 25%;
+    padding-bottom: 0.3rem;
+    text-align: right;
+}
+
+.right h4{
+    font-size: 1.5rem;
+    color: var(--DarkWhite);
+    position: relative;
+    right: 10%;
+    padding-left: 12rem;
+    top: 25%;
+    padding-bottom: 0.3rem;
+    text-align: left;
+}
+
+
 .left p{
     font-size: 1.5rem;
     color: var(--black);
     position: relative;
     left: 10%;
     padding-right: 12rem;
-    top: 30%;
+    top: 25%;
     padding-bottom: 1rem;
     text-align: right;
 }
@@ -182,7 +206,7 @@ h1{
     position: relative;
     right: 10%;
     padding-left: 12rem;
-    top: 30%;
+    top: 25%;
     padding-bottom: 1rem;
     text-align: left;
 }
@@ -193,7 +217,7 @@ h1{
     align-items: center;
     justify-content: center;
     left: 50%;
-    top: 30%;
+    top: 25%;
     transform: translateX(-50%);
     text-decoration: none;
     color: var(--DarkWhite);
@@ -201,7 +225,7 @@ h1{
     font-size: 1rem;
     font-weight: 900;
     text-transform: uppercase;
-    width: 15rem;
+    width: 50%;
     padding: 1.5rem;
 }
 
@@ -218,7 +242,7 @@ h1{
     align-items: center;
     justify-content: center;
     left: 50%;
-    top: 30%;
+    top: 25%;
     transform: translateX(-50%);
     text-decoration: none;
     color: var(--black);
@@ -226,7 +250,7 @@ h1{
     font-size: 1rem;
     font-weight: 900;
     text-transform: uppercase;
-    width: 15rem;
+    width: 50%;
     padding: 1.5rem;
 }
 
