@@ -119,8 +119,23 @@ const proyects = [
       url: "./index.html"
     }
     ]
-    
-    
+
+
+  const URL="./project.json"
+
+  fetch(URL)
+  .then(respuesta=> respuesta.json())
+  .then(datosdesafio=>{
+
+    datosdesafio.forEach(desafio=>{
+      const li= document.createElement("li");
+
+      li.innerHTML= '<h4>${desafio.name}</h4><p>${desafio.id}</p>'
+      console.log(li);
+    });
+  })
+
+       
     const proyectsContainer = document.querySelector(".Proyect__Container");
     const proyectFilter = document.querySelector(".Proyect__Filter");
     const proyectselected= document.querySelector(".proyect__selected");

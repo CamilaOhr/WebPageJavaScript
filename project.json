@@ -1,0 +1,121 @@
+
+    [
+        {
+          "id":1,
+          "name":"Myosotis",
+          "img":"./ProyectImg/InGame.png",
+          "proyecType":"VideoGame",
+          "description":"aquí iría una descripción corta de lo que serióa el proyecto,  herramientas entre otras cosas",
+          "tools": "./ProyectImg/InGame.png",
+          "img1": "./ProyectImg/brush-02.png",
+          "img2": "./ProyectImg/brush-03.png",
+          "img3": "./ProyectImg/brush_Mesa de trabajo 1.png",
+          "img4": "./PyschopompGif.gif",
+          "url": "./index.html"
+    
+        },
+        {
+          "id":2,
+          "name":"Youtube Re-Design",
+          "img":"./ProyectImg/InGame.png",
+          "proyecType":"Web/App",
+          "description":"aquí iría una descripción corta de lo que serióa el proyecto,  herramientas entre otras cosas",
+          "tools": "./ProyectImg/InGame.png",
+          "img1": "./ProyectImg/InGame.png",
+          "img2": "./ProyectImg/InGame.png",
+          "img3": "./ProyectImg/InGame.png",
+          "img4": "./ProyectImg/InGame.png",
+          "url": "./index.html"
+        },
+        {
+          "id":3,
+          "name":"Joula",
+          "img":"./ProyectImg/InGame.png",
+          "proyecType":"Web/App",
+          "description":"aquí iría una descripción corta de lo que serióa el proyecto,  herramientas entre otras cosas",
+          "tools": "./ProyectImg/InGame.png",
+          "img1": "./ProyectImg/InGame.png",
+          "img2": "./ProyectImg/InGame.png",
+          "img3": "./ProyectImg/InGame.png",
+          "img4": "./ProyectImg/InGame.png",
+          "url": "./index.html"
+        },
+        {
+          "id":4,
+          "name":"My Portfolio",
+          "img":"./ProyectImg/InGame.png",
+          "proyecType":"Web/App",
+          "description":"aquí iría una descripción corta de lo que serióa el proyecto,  herramientas entre otras cosas",
+          "tools": "./ProyectImg/InGame.png",
+          "img1": "./ProyectImg/InGame.png",
+          "img2": "./ProyectImg/InGame.png",
+          "img3": "./ProyectImg/InGame.png",
+          "img4": "./ProyectImg/InGame.png",
+          "url": "./index.html"
+        },
+        {
+          "id":5,
+          "name":"Xian Quest",
+          "img":"./ProyectImg/InGame.png",
+          "proyecType":"VideoGame",
+          "description":"aquí iría una descripción corta de lo que serióa el proyecto,  herramientas entre otras cosas",
+          "tools": "./ProyectImg/InGame.png",
+          "img1": "./ProyectImg/InGame.png",
+          "img2": "./ProyectImg/InGame.png",
+          "img3": "./ProyectImg/InGame.png",
+          "img4": "./ProyectImg/InGame.png",
+          "url": "./index.html"
+        },
+        {
+          "id":6,
+          "name":"Psychopomp",
+          "img":"./ProyectImg/InGame.png",
+          "proyecType":"VideoGame",
+          "description":"aquí iría una descripción corta de lo que serióa el proyecto,  herramientas entre otras cosas",
+          "tools": "./ProyectImg/InGame.png",
+          "img1": "./ProyectImg/InGame.png",
+          "img2": "./ProyectImg/InGame.png",
+          "img3": "./ProyectImg/InGame.png",
+          "img4": "./ProyectImg/InGame.png",
+          "url": "./index.html"
+        },
+        {
+          "id":7,
+          "name":"Elba & Llenita",
+          "img":"./ProyectImg/InGame.png",
+          "proyecType":"VideoGame",
+          "description":"aquí iría una descripción corta de lo que serióa el proyecto,  herramientas entre otras cosas",
+          "tools": "./ProyectImg/InGame.png",
+          "img1": "./ProyectImg/InGame.png",
+          "img2": "./ProyectImg/InGame.png",
+          "img3": "./ProyectImg/InGame.png",
+          "img4": "./ProyectImg/InGame.png",
+          "url": "./index.html"
+        },
+        {
+          "id":8,
+          "name":"Environment House",
+          "img":"./ProyectImg/InGame.png",
+          "proyecType":"3D Model",
+          "description":"aquí iría una descripción corta de lo que serióa el proyecto,  herramientas entre otras cosas",
+          "tools": "./ProyectImg/InGame.png",
+          "img1": "./ProyectImg/InGame.png",
+          "img2": "./ProyectImg/InGame.png",
+          "img3": "./ProyectImg/InGame.png",
+          "img4": "./ProyectImg/InGame.png",
+          "url": "./index.html"
+        },
+        {
+          "id":9,
+          "name":"Creature Model",
+          "img":"./ProyectImg/InGame.png",
+          "proyecType":"3D Model",
+          "description":"aquí iría una descripción corta de lo que serióa el proyecto,  herramientas entre otras cosas",
+          "tools": "./ProyectImg/InGame.png",
+          "img1": "./ProyectImg/InGame.png",
+          "img2": "./ProyectImg/InGame.png",
+          "img3": "./ProyectImg/InGame.png",
+          "img4": "./ProyectImg/InGame.png",
+          "url": "./index.html"
+        }
+]
