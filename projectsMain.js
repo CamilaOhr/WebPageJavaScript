@@ -125,12 +125,12 @@ const proyects = [
 
   fetch(URL)
   .then(respuesta=> respuesta.json())
-  .then(datosdesafio=>{
+  .then(datosdesafio=>{  
 
-    datosdesafio.forEach(desafio=>{
+    datosdesafio.products.forEach(desafio=>{
       const li= document.createElement("li");
 
-      li.innerHTML= '<h4>${desafio.name}</h4><p>${desafio.id}</p>'
+      li.innerHTML= `<h4>${desafio.name}</h4><p>${desafio.id}</p>`
       console.log(li);
     });
   })

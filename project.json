@@ -1,5 +1,7 @@
 
-    [
+  { 
+    
+    "products": [
         {
           "id":1,
           "name":"Myosotis",
@@ -119,3 +121,4 @@
           "url": "./index.html"
         }
 ]
+  }
